@@ -30,4 +30,3 @@ Ten projekt demonstruje, jak wykorzystać algorytm K-Means do grupowania klient�
 - `matplotlib`
 - `seaborn`
 
-Miłej nauki i odkrywania klasteryzacji klientów!
