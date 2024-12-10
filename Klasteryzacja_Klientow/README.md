@@ -1,6 +1,3 @@
-
-# Projekt: Klasteryzacja Klientów
-
 Korzystanie z algorytmu K-Means do grupowania klientów na podstawie ich rocznego dochodu i wyniku zakupowego.
 
 ## Jak uruchomić projekt?
